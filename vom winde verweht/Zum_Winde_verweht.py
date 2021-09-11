@@ -47,7 +47,7 @@ def get_distance_of_neares_house(windrad: iter, houses: iter):
 
 
 # lese häuser und windräder von txt und speicher diese in listen
-hauser, windrader = get_landkereis('landkreis4.txt')
+hauser, windrader = get_landkereis('landkreis0.txt')
 
 
 # berechne die distanz zum nächsten haus
